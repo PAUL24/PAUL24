@@ -19,11 +19,12 @@ Software Developer **(Web & Mobile)** from New Zealand 🇳🇿
 - 🍎 **Native iOS** — Swift, Objective-C, SwiftUI, UIKit, Combine, CocoaPods / SPM
 - 🌉 Building **Native Modules, TurboModules & Fabric components** to connect JS with platform APIs
 - 🌐 **Web** — React, Next.js, HTML/CSS, Tailwind CSS
+- 🛠 **Backend** — C# / ASP.NET Core, Node.js, Python
 - ⚡ Performance tuning: Hermes, Reanimated, FlashList, startup time & bundle size
 - 🚀 Shipping to **Google Play & App Store** with Fastlane, EAS and CI/CD pipelines
-- 🌱 Currently exploring: React Native New Architecture, Kotlin Multiplatform
+- 🌱 Currently exploring: React Native New Architecture & AI-assisted development workflows
 - 💬 Ask me about: React Native, React, native bridges, mobile CI/CD, weird Xcode & Gradle build errors
-- 🌎 Open to remote work & freelance
+- 🌎 Open to **remote, contract, full-time and freelance** work opportunities
 
 > *"Write once, debug everywhere — then go native when it matters."*
 
@@ -62,6 +63,9 @@ Software Developer **(Web & Mobile)** from New Zealand 🇳🇿
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🛠 Backend & Services
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
